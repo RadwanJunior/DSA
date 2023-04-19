@@ -57,6 +57,6 @@ public class BigO {
 
 
     public static void main(String[] args) {
-        printItems(10);
+        printItems(10,20);
     }
 }
